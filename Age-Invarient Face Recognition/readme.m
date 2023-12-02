@@ -43,3 +43,10 @@
 %              points has to be selected with dialog box. See FG-NET AGING DATABASE for
 %              landmark points positionings and file format. Code returns
 %              face ID.
+%
+% Delete Database:
+%              remove database from the current directory
+%
+% Program info:
+%              show information about this software
+%
