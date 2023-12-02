@@ -31,3 +31,15 @@
 % Database Info:                                  
 %              show informations about the images present in database.
 %
+% Face Recognition with manual landmark points:                        
+%              face recognition. The selected input image is processed.
+%              Landmark points have to be manually selected on image (68
+%              points). See FG-NET AGING DATABASE for
+%              landmark points positionings. See also example images with
+%              landmark points. Code returns face ID.
+%
+% Face Recognition with point file selection:
+%              face recognition. The selected input image is processed. A file with landmark 
+%              points has to be selected with dialog box. See FG-NET AGING DATABASE for
+%              landmark points positionings and file format. Code returns
+%              face ID.
