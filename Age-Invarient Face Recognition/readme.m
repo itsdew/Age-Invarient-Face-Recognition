@@ -50,3 +50,10 @@
 % Program info:
 %              show information about this software
 %
+%
+% Source code for Age Invariant Face Recognition: 
+%              how to obtain the complete source code
+%
+% Exit:
+%              quit program
+%
